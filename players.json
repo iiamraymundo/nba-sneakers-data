@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PLR-001",
+    "name": "Michael Jordan",
+    "position": "SG",
+    "team": "Chicago Bulls",
+    "championships": 6,
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/michael-jordan.png"
+  },
+  {
+    "id": "PLR-002",
+    "name": "Kobe Bryant",
+    "position": "SG",
+    "team": "Los Angeles Lakers",
+    "championships": 5,
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/kobe-bryant.png"
+  },
+  {
+    "id": "PLR-003",
+    "name": "Stephen Curry",
+    "position": "PG",
+    "team": "Golden State Warriors",
+    "championships": 4,
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/stephen-curry.png"
+  },
+  {
+    "id": "PLR-004",
+    "name": "Dwyane Wade",
+    "position": "SG",
+    "team": "Miami Heat",
+    "championships": 3,
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/dwyane-wade.png"
+  },
+  {
+    "id": "PLR-005",
+    "name": "Ja Morant",
+    "position": "PG",
+    "team": "Memphis Grizzlies",
+    "championships": 0,
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/ja-morant.png"
+  }
+]

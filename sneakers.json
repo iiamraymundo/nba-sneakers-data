@@ -1,0 +1,251 @@
+[
+  {
+    "id": "SNK-001",
+    "name": "Air Jordan 1",
+    "description": "Michael Jordan's first signature shoe, designed by Peter Moore. According to sneaker lore the NBA banned the black and red colorway, and Nike turned the fines into one of the most famous marketing campaigns ever. Today it is one of the most iconic sneakers in history.",
+    "retailPrice": 65,
+    "isRetro": true,
+    "releaseDate": "1985-04-01",
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/sneakers/air-jordan-1.png",
+    "cut": "High",
+    "colorways": [
+      "Chicago",
+      "Bred",
+      "Royal",
+      "Shadow"
+    ],
+    "brand": "Nike",
+    "player": {
+      "id": "PLR-001",
+      "name": "Michael Jordan",
+      "position": "SG",
+      "team": "Chicago Bulls",
+      "championships": 6,
+      "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/michael-jordan.png"
+    }
+  },
+  {
+    "id": "SNK-002",
+    "name": "Air Jordan 11",
+    "description": "Designed by Tinker Hatfield and worn by Jordan during his return season, the Air Jordan 11 was the first basketball shoe with a patent leather upper and a carbon fiber plate. Its yearly holiday retros are among the biggest sneaker releases of the year.",
+    "retailPrice": 125,
+    "isRetro": true,
+    "releaseDate": "1995-11-10",
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/sneakers/air-jordan-11.png",
+    "cut": "High",
+    "colorways": [
+      "Concord",
+      "Bred",
+      "Space Jam",
+      "Cool Grey"
+    ],
+    "brand": "Nike",
+    "player": {
+      "id": "PLR-001",
+      "name": "Michael Jordan",
+      "position": "SG",
+      "team": "Chicago Bulls",
+      "championships": 6,
+      "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/michael-jordan.png"
+    }
+  },
+  {
+    "id": "SNK-003",
+    "name": "Nike Zoom Kobe 4",
+    "description": "Designed by Eric Avar, the Kobe 4 proved that a low-top could be a serious performance basketball shoe. Kobe compared its design to a soccer cleat, and its lightweight Flywire construction changed how brands thought about basketball footwear.",
+    "retailPrice": 120,
+    "isRetro": true,
+    "releaseDate": "2009-02-14",
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/sneakers/kobe-4.png",
+    "cut": "Low",
+    "colorways": [
+      "Carpe Diem",
+      "Draft Day",
+      "Gold Medal",
+      "Black Mamba"
+    ],
+    "brand": "Nike",
+    "player": {
+      "id": "PLR-002",
+      "name": "Kobe Bryant",
+      "position": "SG",
+      "team": "Los Angeles Lakers",
+      "championships": 5,
+      "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/kobe-bryant.png"
+    }
+  },
+  {
+    "id": "SNK-004",
+    "name": "Nike Zoom Kobe 6",
+    "description": "Inspired by Kobe's Black Mamba persona, the Kobe 6 has a textured upper that resembles snakeskin. The green 'Grinch' colorway, released on Christmas Day, became a cult classic and one of the most sought-after basketball shoes ever.",
+    "retailPrice": 130,
+    "isRetro": true,
+    "releaseDate": "2010-12-25",
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/sneakers/kobe-6.png",
+    "cut": "Low",
+    "colorways": [
+      "Grinch",
+      "Del Sol",
+      "Mambacita",
+      "Reverse Grinch"
+    ],
+    "brand": "Nike",
+    "player": {
+      "id": "PLR-002",
+      "name": "Kobe Bryant",
+      "position": "SG",
+      "team": "Los Angeles Lakers",
+      "championships": 5,
+      "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/kobe-bryant.png"
+    }
+  },
+  {
+    "id": "SNK-005",
+    "name": "Under Armour Curry One",
+    "description": "Stephen Curry's first signature shoe with Under Armour, launched during the season in which he won his first MVP award and first championship. It helped establish Under Armour as a real player in the basketball sneaker market.",
+    "retailPrice": 120,
+    "isRetro": false,
+    "releaseDate": "2015-02-13",
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/sneakers/curry-1.png",
+    "cut": "Mid",
+    "colorways": [
+      "Home",
+      "Away",
+      "MVP",
+      "Championship"
+    ],
+    "brand": "Under Armour",
+    "player": {
+      "id": "PLR-003",
+      "name": "Stephen Curry",
+      "position": "PG",
+      "team": "Golden State Warriors",
+      "championships": 4,
+      "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/stephen-curry.png"
+    }
+  },
+  {
+    "id": "SNK-006",
+    "name": "Curry Flow 10",
+    "description": "The tenth signature model and the first shoe released under Curry Brand. It uses the rubberless UA Flow cushioning in the outsole, giving it a light, grippy feel that suits Curry's quick cuts and deep shooting range.",
+    "retailPrice": 160,
+    "isRetro": false,
+    "releaseDate": "2022-10-21",
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/sneakers/curry-flow-10.png",
+    "cut": "Low",
+    "colorways": [
+      "Splash Party",
+      "Magic",
+      "Father to Son",
+      "Dub Nation"
+    ],
+    "brand": "Curry Brand",
+    "player": {
+      "id": "PLR-003",
+      "name": "Stephen Curry",
+      "position": "PG",
+      "team": "Golden State Warriors",
+      "championships": 4,
+      "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/stephen-curry.png"
+    }
+  },
+  {
+    "id": "SNK-007",
+    "name": "Li-Ning Way of Wade 1",
+    "description": "After leaving Jordan Brand, Dwyane Wade signed a lifetime deal with the Chinese brand Li-Ning. The Way of Wade 1 was the start of that line, and it put an Asian sportswear brand on the feet of an NBA superstar.",
+    "retailPrice": 150,
+    "isRetro": false,
+    "releaseDate": "2013-10-10",
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/sneakers/way-of-wade-1.png",
+    "cut": "Mid",
+    "colorways": [
+      "Announcement",
+      "Warrior",
+      "Street Legend"
+    ],
+    "brand": "Li-Ning",
+    "player": {
+      "id": "PLR-004",
+      "name": "Dwyane Wade",
+      "position": "SG",
+      "team": "Miami Heat",
+      "championships": 3,
+      "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/dwyane-wade.png"
+    }
+  },
+  {
+    "id": "SNK-008",
+    "name": "Li-Ning Way of Wade 10",
+    "description": "The tenth edition of the Way of Wade line combines a carbon fiber plate with Li-Ning's Boom cushioning. Known for bold artistic colorways, it is one of the most premium performance basketball shoes available.",
+    "retailPrice": 225,
+    "isRetro": false,
+    "releaseDate": "2023-03-18",
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/sneakers/way-of-wade-10.png",
+    "cut": "Mid",
+    "colorways": [
+      "Art",
+      "Mint",
+      "Caution",
+      "Black Dragon"
+    ],
+    "brand": "Li-Ning",
+    "player": {
+      "id": "PLR-004",
+      "name": "Dwyane Wade",
+      "position": "SG",
+      "team": "Miami Heat",
+      "championships": 3,
+      "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/dwyane-wade.png"
+    }
+  },
+  {
+    "id": "SNK-009",
+    "name": "Nike Ja 1",
+    "description": "Ja Morant's first signature shoe, built for his explosive, high-flying style of play. Nike kept the price affordable so young hoopers could wear the same shoe as their favorite player.",
+    "retailPrice": 110,
+    "isRetro": false,
+    "releaseDate": "2023-02-17",
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/sneakers/ja-1.png",
+    "cut": "Low",
+    "colorways": [
+      "Scratch",
+      "Day One",
+      "Light Smoke Grey",
+      "USA"
+    ],
+    "brand": "Nike",
+    "player": {
+      "id": "PLR-005",
+      "name": "Ja Morant",
+      "position": "PG",
+      "team": "Memphis Grizzlies",
+      "championships": 0,
+      "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/ja-morant.png"
+    }
+  },
+  {
+    "id": "SNK-010",
+    "name": "Nike Ja 2",
+    "description": "The follow-up to the Ja 1 keeps the lightweight, low-to-the-ground feel with a bit more bounce. Its colorways lean into Ja's playful personality, with references to video games and cartoons.",
+    "retailPrice": 120,
+    "isRetro": false,
+    "releaseDate": "2024-09-26",
+    "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/sneakers/ja-2.png",
+    "cut": "Low",
+    "colorways": [
+      "Purple Sky",
+      "Twelve Time",
+      "Beyond Blue",
+      "Ja-Breaker"
+    ],
+    "brand": "Nike",
+    "player": {
+      "id": "PLR-005",
+      "name": "Ja Morant",
+      "position": "PG",
+      "team": "Memphis Grizzlies",
+      "championships": 0,
+      "imageUrl": "https://raw.githubusercontent.com/iiamraymundo/nba-sneakers-data/main/images/players/ja-morant.png"
+    }
+  }
+]
